@@ -88,18 +88,13 @@ The final Kaggle submission achieved a public leaderboard score of **0.79237**.
 
 The application allows users to enter passenger information and predict transportation status using the trained Random Forest model.
 
-### Live Demo
+## Live Demo
 
-Hugging Face Space:
-
-PASTE_YOUR_HUGGINGFACE_LINK_HERE
-
----
+👉 [Hugging Face Demo](https://huggingface.co/spaces/MSK34/spaceship-titanic-classification)
 
 ## Kaggle Notebook
 
-PASTE_YOUR_KAGGLE_NOTEBOOK_LINK_HERE
-
+📒 [Kaggle Notebook](https://www.kaggle.com/code/mhskaya/spaceship-titanic-classification)
 ---
 
 ## Technologies Used
